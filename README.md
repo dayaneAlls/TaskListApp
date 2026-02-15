@@ -21,17 +21,3 @@ Além disso, o app busca exercitar boas práticas, código limpo e a construçã
 
 O projeto utiliza o padrão **MVVM (Model-View-ViewModel)**.
 
----
-
-## 📂 Estrutura do Projeto
-
-TaskListApp
-├── Application
-│   └── TaskListApp.swift
-├── View
-│   └── ContentView.swift
-├── ViewModel
-│   └── TaskViewModel.swift
-└── Model
-    └── Task.swift
-
