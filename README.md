@@ -26,12 +26,12 @@ O projeto utiliza o padrão **MVVM (Model-View-ViewModel)**.
 ## 📂 Estrutura do Projeto
 
 TaskListApp
-│
 ├── Application
-├─────TaskListApp.swift
+│   └── TaskListApp.swift
 ├── View
-├─────ContentView.swift
+│   └── ContentView.swift
 ├── ViewModel
-├─────TaskViewModel.swift
-├── Model
-├─────Task.swift
+│   └── TaskViewModel.swift
+└── Model
+    └── Task.swift
+
